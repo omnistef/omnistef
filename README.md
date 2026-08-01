@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello there, i am Omnistef!👋
 
-<!--
-**omnistef/omnistef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🐧 **OS:** Debian Linux
+- 💻 **Main language:** C++ (C++17 / C++20)
+- 🔭 **Current project:** As a first project, im trying to create a monitor system resources in CPP for Linux.
+- 🌱 **Learning now:** Advanced CPP, Python, Linux, Computer Networking 
+- 💬 **Interests:** Learning as much as I can about programming and computer systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools:
+- **Languages:** C++, Bash
+- **Environment:** Debian Linux, GCC / Clang, CMake, Git & GitHub
+- **Editor:** Vim
+
+---
+*Profile hosted and developed directly from Debian.*
